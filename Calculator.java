@@ -1,3 +1,4 @@
+//made by me..lol
 import java.util.Scanner;
 class Calculator {
     public static int add(int n1, int n2){
